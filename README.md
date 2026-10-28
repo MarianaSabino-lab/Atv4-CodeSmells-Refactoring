@@ -1,5 +1,7 @@
 # Atv4-CodeSmells-Refactoring
-Atividade 4 - PSOFT - 2026.2# Atividade 4 — Code Smells e Refatoração
+Atividade 4 - PSOFT - 2026.2
+
+# Atividade 4 — Code Smells e Refatoração
 
 Repositório desenvolvido para a Atividade 4 da disciplina de Projeto de Software (PSOFT), com foco na identificação, análise e proposta de refatoração de *Code Smells*.
 
